@@ -5,6 +5,5 @@ coverage
 server.*
 published
 *.log
-dist
 _docpress
 .vscode
